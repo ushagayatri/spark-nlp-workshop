@@ -62,7 +62,7 @@ Congratulations, you have installed Jupyter Notebook! To run the notebook, run t
 jupyter notebook
 ```
 
-### Installing Jupyter with pip
+### #Installing Jupyter with pip
 
 As an existing or experienced Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
 
